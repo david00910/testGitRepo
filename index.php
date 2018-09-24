@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h2>GitHub Hello World!</h2>
+<div class="text-box" style="margin:0 auto; width: 250px; border: 1px solid grey;text-align: center;"><h2>GitHub Hello World!</h2></div>
 
 </body>
 </html>
