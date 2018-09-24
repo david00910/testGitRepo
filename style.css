@@ -1,6 +1,11 @@
-.text-box {
+.text-box h2 {
     margin:0 auto;
     width: 250px;
     border: 1px solid grey;
+    text-align: center;
+}
+
+.image-box {
+    padding: 30px 20px 30px 20px;
     text-align: center;
 }

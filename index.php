@@ -11,6 +11,7 @@
 <body>
 
 <div class="text-box"><h2>GitHub Hello World!</h2></div>
+<div class="image-box"><img src="https://gfnc1kn6pi-flywheel.netdna-ssl.com/wp-content/uploads/2015/11/0001-99195185.jpg" width="600"> </div>
 
 </body>
 </html>
