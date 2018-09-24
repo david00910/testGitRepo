@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<div class="text-box"><h2>I changed this Line : Dávid! ohhh i wanna be here also</h2></div>
+<div class="text-box"><h2>I changed this Line : Dávid!</h2></div>
 <div class="image-box"><img src="https://gfnc1kn6pi-flywheel.netdna-ssl.com/wp-content/uploads/2015/11/0001-99195185.jpg" width="600"> </div>
 <div class="text-box"><h2>Uuuuuuuuuh I love puppies and kittens</h2></div>
 </body>
