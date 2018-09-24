@@ -1,0 +1,6 @@
+.text-box {
+    margin:0 auto;
+    width: 250px;
+    border: 1px solid grey;
+    text-align: center;
+}
